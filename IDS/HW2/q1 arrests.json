@@ -1,0 +1,1851 @@
+{
+"Sheet1":[
+ {
+  "State": "Alabama",
+  "Murder": 13.2,
+  "Assault": 236,
+  "UrbanPop": 58,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Alaska",
+  "Murder": 10,
+  "Assault": 263,
+  "UrbanPop": 48,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": "urban pop smaller than 50"
+ },
+ {
+  "State": "Arizona",
+  "Murder": 8.1,
+  "Assault": 294,
+  "UrbanPop": 80,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Arkansas",
+  "Murder": 8.8,
+  "Assault": 190,
+  "UrbanPop": 50,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "California",
+  "Murder": 9,
+  "Assault": 276,
+  "UrbanPop": 91,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Colorado",
+  "Murder": 7.9,
+  "Assault": 204,
+  "UrbanPop": 78,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Connecticut",
+  "Murder": 3.3,
+  "Assault": 110,
+  "UrbanPop": 77,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Delaware",
+  "Murder": 5.9,
+  "Assault": 238,
+  "UrbanPop": 72,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Florida",
+  "Murder": 15.4,
+  "Assault": 335,
+  "UrbanPop": 80,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Georgia",
+  "Murder": 17.4,
+  "Assault": 169,
+  "UrbanPop": 60,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Hawaii",
+  "Murder": 5.3,
+  "Assault": 46,
+  "UrbanPop": 83,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Idaho",
+  "Murder": 2.6,
+  "Assault": 120,
+  "UrbanPop": 54,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Illinois",
+  "Murder": 10.4,
+  "Assault": 249,
+  "UrbanPop": 83,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Indiana",
+  "Murder": 7.2,
+  "Assault": 113,
+  "UrbanPop": 65,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Iowa",
+  "Murder": 2.2,
+  "Assault": 56,
+  "UrbanPop": 57,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Kansas",
+  "Murder": 6,
+  "Assault": 115,
+  "UrbanPop": 66,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Kentucky",
+  "Murder": 9.7,
+  "Assault": 109,
+  "UrbanPop": 52,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Louisiana",
+  "Murder": 15.4,
+  "Assault": 249,
+  "UrbanPop": 66,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Maine",
+  "Murder": 2.1,
+  "Assault": 83,
+  "UrbanPop": 51,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Maryland",
+  "Murder": 11.3,
+  "Assault": 300,
+  "UrbanPop": 67,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Massachusetts",
+  "Murder": 4.4,
+  "Assault": 149,
+  "UrbanPop": 85,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Michigan",
+  "Murder": 12.1,
+  "Assault": 255,
+  "UrbanPop": 74,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Minnesota",
+  "Murder": 2.7,
+  "Assault": 72,
+  "UrbanPop": 66,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Mississippi",
+  "Murder": 16.1,
+  "Assault": 259,
+  "UrbanPop": 44,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Missouri",
+  "Murder": 9,
+  "Assault": 178,
+  "UrbanPop": 70,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Montana",
+  "Murder": 6,
+  "Assault": 109,
+  "UrbanPop": 53,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Nebraska",
+  "Murder": 4.3,
+  "Assault": 102,
+  "UrbanPop": 62,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Nevada",
+  "Murder": 12.2,
+  "Assault": 252,
+  "UrbanPop": 81,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "New Hampshire",
+  "Murder": 2.1,
+  "Assault": 57,
+  "UrbanPop": 56,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "New Jersey",
+  "Murder": 7.4,
+  "Assault": 159,
+  "UrbanPop": 89,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "New Mexico",
+  "Murder": 11.4,
+  "Assault": 285,
+  "UrbanPop": 70,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "New York",
+  "Murder": 11.1,
+  "Assault": 254,
+  "UrbanPop": 86,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "North Carolina",
+  "Murder": 13,
+  "Assault": 337,
+  "UrbanPop": 45,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "North Dakota",
+  "Murder": 0.8,
+  "Assault": 45,
+  "UrbanPop": 44,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Ohio",
+  "Murder": 7.3,
+  "Assault": 120,
+  "UrbanPop": 75,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Oklahoma",
+  "Murder": 6.6,
+  "Assault": 151,
+  "UrbanPop": 68,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Oregon",
+  "Murder": 4.9,
+  "Assault": 159,
+  "UrbanPop": 67,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Pennsylvania",
+  "Murder": 6.3,
+  "Assault": 106,
+  "UrbanPop": 72,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Rhode Island",
+  "Murder": 3.4,
+  "Assault": 174,
+  "UrbanPop": 87,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "South Carolina",
+  "Murder": 14.4,
+  "Assault": 279,
+  "UrbanPop": 48,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "South Dakota",
+  "Murder": 3.8,
+  "Assault": 86,
+  "UrbanPop": 45,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Tennessee",
+  "Murder": 13.2,
+  "Assault": 188,
+  "UrbanPop": 59,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Texas",
+  "Murder": 12.7,
+  "Assault": 201,
+  "UrbanPop": 80,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Utah",
+  "Murder": 3.2,
+  "Assault": 120,
+  "UrbanPop": 80,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Vermont",
+  "Murder": 2.2,
+  "Assault": 48,
+  "UrbanPop": 32,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Virginia",
+  "Murder": 8.5,
+  "Assault": 156,
+  "UrbanPop": 63,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Washington",
+  "Murder": 4,
+  "Assault": 145,
+  "UrbanPop": 73,
+  "Column5": "x",
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "West Virginia",
+  "Murder": 5.7,
+  "Assault": 81,
+  "UrbanPop": 39,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Wisconsin",
+  "Murder": 2.6,
+  "Assault": 53,
+  "UrbanPop": 66,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "State": "Wyoming",
+  "Murder": 6.8,
+  "Assault": 161,
+  "UrbanPop": 60,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ }
+],
+"Sheet4":[
+ {
+  "State": "Alabama",
+  "Murder": 13.2,
+  "Assault": 236,
+  "UrbanPop": 58
+ },
+ {
+  "State": "Alaska",
+  "Murder": 10,
+  "Assault": 263,
+  "UrbanPop": 48
+ },
+ {
+  "State": "Arizona",
+  "Murder": 8.1,
+  "Assault": 294,
+  "UrbanPop": 80
+ },
+ {
+  "State": "Arkansas",
+  "Murder": 8.8,
+  "Assault": 190,
+  "UrbanPop": 50
+ },
+ {
+  "State": "California",
+  "Murder": 9,
+  "Assault": 276,
+  "UrbanPop": 91
+ },
+ {
+  "State": "Colorado",
+  "Murder": 7.9,
+  "Assault": 204,
+  "UrbanPop": 78
+ },
+ {
+  "State": "Connecticut",
+  "Murder": 3.3,
+  "Assault": 110,
+  "UrbanPop": 77
+ },
+ {
+  "State": "Delaware",
+  "Murder": 5.9,
+  "Assault": 238,
+  "UrbanPop": 72
+ },
+ {
+  "State": "Florida",
+  "Murder": 15.4,
+  "Assault": 335,
+  "UrbanPop": 80
+ },
+ {
+  "State": "Georgia",
+  "Murder": 17.4,
+  "Assault": 169,
+  "UrbanPop": 60
+ },
+ {
+  "State": "Hawaii",
+  "Murder": 5.3,
+  "Assault": 46,
+  "UrbanPop": 83
+ },
+ {
+  "State": "Idaho",
+  "Murder": 2.6,
+  "Assault": 120,
+  "UrbanPop": 54
+ },
+ {
+  "State": "Illinois",
+  "Murder": 10.4,
+  "Assault": 249,
+  "UrbanPop": 83
+ },
+ {
+  "State": "Indiana",
+  "Murder": 7.2,
+  "Assault": 113,
+  "UrbanPop": 65
+ },
+ {
+  "State": "Iowa",
+  "Murder": 2.2,
+  "Assault": 56,
+  "UrbanPop": 57
+ },
+ {
+  "State": "Kansas",
+  "Murder": 6,
+  "Assault": 115,
+  "UrbanPop": 66
+ },
+ {
+  "State": "Kentucky",
+  "Murder": 9.7,
+  "Assault": 109,
+  "UrbanPop": 52
+ },
+ {
+  "State": "Louisiana",
+  "Murder": 15.4,
+  "Assault": 249,
+  "UrbanPop": 66
+ },
+ {
+  "State": "Maine",
+  "Murder": 2.1,
+  "Assault": 83,
+  "UrbanPop": 51
+ },
+ {
+  "State": "Maryland",
+  "Murder": 11.3,
+  "Assault": 300,
+  "UrbanPop": 67
+ },
+ {
+  "State": "Massachusetts",
+  "Murder": 4.4,
+  "Assault": 149,
+  "UrbanPop": 85
+ },
+ {
+  "State": "Michigan",
+  "Murder": 12.1,
+  "Assault": 255,
+  "UrbanPop": 74
+ },
+ {
+  "State": "Minnesota",
+  "Murder": 2.7,
+  "Assault": 72,
+  "UrbanPop": 66
+ },
+ {
+  "State": "Mississippi",
+  "Murder": 16.1,
+  "Assault": 259,
+  "UrbanPop": 44
+ },
+ {
+  "State": "Missouri",
+  "Murder": 9,
+  "Assault": 178,
+  "UrbanPop": 70
+ },
+ {
+  "State": "Montana",
+  "Murder": 6,
+  "Assault": 109,
+  "UrbanPop": 53
+ },
+ {
+  "State": "Nebraska",
+  "Murder": 4.3,
+  "Assault": 102,
+  "UrbanPop": 62
+ },
+ {
+  "State": "Nevada",
+  "Murder": 12.2,
+  "Assault": 252,
+  "UrbanPop": 81
+ },
+ {
+  "State": "New Hampshire",
+  "Murder": 2.1,
+  "Assault": 57,
+  "UrbanPop": 56
+ },
+ {
+  "State": "New Jersey",
+  "Murder": 7.4,
+  "Assault": 159,
+  "UrbanPop": 89
+ },
+ {
+  "State": "New Mexico",
+  "Murder": 11.4,
+  "Assault": 285,
+  "UrbanPop": 70
+ },
+ {
+  "State": "New York",
+  "Murder": 11.1,
+  "Assault": 254,
+  "UrbanPop": 86
+ },
+ {
+  "State": "North Carolina",
+  "Murder": 13,
+  "Assault": 337,
+  "UrbanPop": 45
+ },
+ {
+  "State": "North Dakota",
+  "Murder": 0.8,
+  "Assault": 45,
+  "UrbanPop": 44
+ },
+ {
+  "State": "Ohio",
+  "Murder": 7.3,
+  "Assault": 120,
+  "UrbanPop": 75
+ },
+ {
+  "State": "Oklahoma",
+  "Murder": 6.6,
+  "Assault": 151,
+  "UrbanPop": 68
+ },
+ {
+  "State": "Oregon",
+  "Murder": 4.9,
+  "Assault": 159,
+  "UrbanPop": 67
+ },
+ {
+  "State": "Pennsylvania",
+  "Murder": 6.3,
+  "Assault": 106,
+  "UrbanPop": 72
+ },
+ {
+  "State": "Rhode Island",
+  "Murder": 3.4,
+  "Assault": 174,
+  "UrbanPop": 87
+ },
+ {
+  "State": "South Carolina",
+  "Murder": 14.4,
+  "Assault": 279,
+  "UrbanPop": 48
+ },
+ {
+  "State": "South Dakota",
+  "Murder": 3.8,
+  "Assault": 86,
+  "UrbanPop": 45
+ },
+ {
+  "State": "Tennessee",
+  "Murder": 13.2,
+  "Assault": 188,
+  "UrbanPop": 59
+ },
+ {
+  "State": "Texas",
+  "Murder": 12.7,
+  "Assault": 201,
+  "UrbanPop": 80
+ },
+ {
+  "State": "Utah",
+  "Murder": 3.2,
+  "Assault": 120,
+  "UrbanPop": 80
+ },
+ {
+  "State": "Vermont",
+  "Murder": 2.2,
+  "Assault": 48,
+  "UrbanPop": 32
+ },
+ {
+  "State": "Virginia",
+  "Murder": 8.5,
+  "Assault": 156,
+  "UrbanPop": 63
+ },
+ {
+  "State": "Washington",
+  "Murder": 4,
+  "Assault": 145,
+  "UrbanPop": 73
+ },
+ {
+  "State": "West Virginia",
+  "Murder": 5.7,
+  "Assault": 81,
+  "UrbanPop": 39
+ },
+ {
+  "State": "Wisconsin",
+  "Murder": 2.6,
+  "Assault": 53,
+  "UrbanPop": 66
+ },
+ {
+  "State": "Wyoming",
+  "Murder": 6.8,
+  "Assault": 161,
+  "UrbanPop": 60
+ }
+],
+"Sheet3":[
+ {
+  "State": "Alabama",
+  "Murder": 13.2,
+  "Assault": 236,
+  "UrbanPop": 58,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": "State",
+  "Column9": "Murder",
+  "Column10": "Assault",
+  "Column11": "UrbanPop"
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": "Alaska",
+  "Column9": 10,
+  "Column10": 263,
+  "Column11": 48
+ },
+ {
+  "State": "Arizona",
+  "Murder": 8.1,
+  "Assault": 294,
+  "UrbanPop": 80,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": "Mississippi",
+  "Column9": 16.1,
+  "Column10": 259,
+  "Column11": 44
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": "Vermont",
+  "Column9": 2.2,
+  "Column10": 48,
+  "Column11": 32
+ },
+ {
+  "State": "California",
+  "Murder": 9,
+  "Assault": 276,
+  "UrbanPop": 91,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": "West Virginia",
+  "Column9": 5.7,
+  "Column10": 81,
+  "Column11": 39
+ },
+ {
+  "State": "Colorado",
+  "Murder": 7.9,
+  "Assault": 204,
+  "UrbanPop": 78,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Connecticut",
+  "Murder": 3.3,
+  "Assault": 110,
+  "UrbanPop": 77,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Delaware",
+  "Murder": 5.9,
+  "Assault": 238,
+  "UrbanPop": 72,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Florida",
+  "Murder": 15.4,
+  "Assault": 335,
+  "UrbanPop": 80,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": "avg or murder and assault",
+  "Column9": null,
+  "Column10": "its population",
+  "Column11": null
+ },
+ {
+  "State": "Georgia",
+  "Murder": 17.4,
+  "Assault": 169.93,
+  "UrbanPop": 60,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": 91.88,
+  "Column9": null,
+  "Column10": "lower than 50",
+  "Column11": null
+ },
+ {
+  "State": "Hawaii",
+  "Murder": 5.3,
+  "Assault": 46,
+  "UrbanPop": 83,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": "lower than 60",
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": "lower than 70",
+  "Column11": null
+ },
+ {
+  "State": "Illinois",
+  "Murder": 10.4,
+  "Assault": 249,
+  "UrbanPop": 83,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": "more than 70",
+  "Column11": null
+ },
+ {
+  "State": "Indiana",
+  "Murder": 7.2,
+  "Assault": 113,
+  "UrbanPop": 65,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Kansas",
+  "Murder": 6,
+  "Assault": 115,
+  "UrbanPop": 66,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Louisiana",
+  "Murder": 15.4,
+  "Assault": 249,
+  "UrbanPop": 66,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Maryland",
+  "Murder": 11.3,
+  "Assault": 300,
+  "UrbanPop": 67,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Massachusetts",
+  "Murder": 4.4,
+  "Assault": 149,
+  "UrbanPop": 85,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Michigan",
+  "Murder": 12.1,
+  "Assault": 255,
+  "UrbanPop": 74,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Minnesota",
+  "Murder": 2.7,
+  "Assault": 72,
+  "UrbanPop": 66,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Missouri",
+  "Murder": 9,
+  "Assault": 178,
+  "UrbanPop": 70,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Nebraska",
+  "Murder": 4.3,
+  "Assault": 102,
+  "UrbanPop": 62,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Nevada",
+  "Murder": 12.2,
+  "Assault": 252,
+  "UrbanPop": 81,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "New Jersey",
+  "Murder": 7.4,
+  "Assault": 159,
+  "UrbanPop": 89,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "New Mexico",
+  "Murder": 11.4,
+  "Assault": 285,
+  "UrbanPop": 70,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "New York",
+  "Murder": 11.1,
+  "Assault": 254,
+  "UrbanPop": 86,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Ohio",
+  "Murder": 7.3,
+  "Assault": 120,
+  "UrbanPop": 75,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Oklahoma",
+  "Murder": 6.6,
+  "Assault": 151,
+  "UrbanPop": 68,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Oregon",
+  "Murder": 4.9,
+  "Assault": 159,
+  "UrbanPop": 67,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Pennsylvania",
+  "Murder": 6.3,
+  "Assault": 106,
+  "UrbanPop": 72,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Rhode Island",
+  "Murder": 3.4,
+  "Assault": 174,
+  "UrbanPop": 87,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "South Carolina",
+  "Murder": 14.4,
+  "Assault": 279,
+  "UrbanPop": 48,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "South Dakota",
+  "Murder": 3.8,
+  "Assault": 86,
+  "UrbanPop": 45,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Tennessee",
+  "Murder": 13.2,
+  "Assault": 188,
+  "UrbanPop": 59,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Texas",
+  "Murder": 12.7,
+  "Assault": 201,
+  "UrbanPop": 80,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Utah",
+  "Murder": 3.2,
+  "Assault": 120,
+  "UrbanPop": 80,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Virginia",
+  "Murder": 8.5,
+  "Assault": 156,
+  "UrbanPop": 63,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Washington",
+  "Murder": 4,
+  "Assault": 145,
+  "UrbanPop": 73,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": null,
+  "Murder": null,
+  "Assault": null,
+  "UrbanPop": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Wisconsin",
+  "Murder": 2.6,
+  "Assault": 53,
+  "UrbanPop": 66,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ },
+ {
+  "State": "Wyoming",
+  "Murder": 6.8,
+  "Assault": 161,
+  "UrbanPop": 60,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null,
+  "smaller than 50": null,
+  "Column9": null,
+  "Column10": null,
+  "Column11": null
+ }
+],
+"Sheet2":[
+ {
+  "Alabama": "Alaska",
+  "236": 263,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Arizona",
+  "236": 294,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Arkansas",
+  "236": 190,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": "missing assault=",
+  "Column7": 169.93
+ },
+ {
+  "Alabama": "California",
+  "236": 276,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Colorado",
+  "236": 204,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Connecticut",
+  "236": 110,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Delaware",
+  "236": 238,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Florida",
+  "236": 335,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Georgia",
+  "236": 169.93,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Hawaii",
+  "236": 46,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Idaho",
+  "236": 120,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Illinois",
+  "236": 249,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Indiana",
+  "236": 113,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Iowa",
+  "236": 56,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Kansas",
+  "236": 115,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Kentucky",
+  "236": 109,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Louisiana",
+  "236": 249,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Maine",
+  "236": 83,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Maryland",
+  "236": 300,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Massachusetts",
+  "236": 149,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Michigan",
+  "236": 255,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Minnesota",
+  "236": 72,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Mississippi",
+  "236": 259,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Missouri",
+  "236": 178,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Montana",
+  "236": 109,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Nebraska",
+  "236": 102,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Nevada",
+  "236": 252,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "New Hampshire",
+  "236": 57,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "New Jersey",
+  "236": 159,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "New Mexico",
+  "236": 285,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "New York",
+  "236": 254,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "North Carolina",
+  "236": 337,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "North Dakota",
+  "236": 45,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Ohio",
+  "236": 120,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Oklahoma",
+  "236": 151,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Oregon",
+  "236": 159,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Pennsylvania",
+  "236": 106,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Rhode Island",
+  "236": 174,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "South Carolina",
+  "236": 279,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "South Dakota",
+  "236": 86,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Tennessee",
+  "236": 188,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Texas",
+  "236": 201,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Utah",
+  "236": 120,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Vermont",
+  "236": 48,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Virginia",
+  "236": 156,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Washington",
+  "236": 145,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "West Virginia",
+  "236": 81,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Wisconsin",
+  "236": 53,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "Alabama": "Wyoming",
+  "236": 161,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ }
+]
+}
